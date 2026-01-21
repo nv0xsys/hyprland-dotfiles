@@ -1,0 +1,6 @@
+pipes.sh
+tty-clock
+tty-clock-debug
+visual-studio-code-bin
+yay
+yay-debug
